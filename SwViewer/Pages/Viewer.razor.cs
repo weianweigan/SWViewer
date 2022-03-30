@@ -41,7 +41,12 @@ namespace SwViewer.Pages
                 Message.Error("File Size Should Smaller than 10000KB!");
             }
 
-            return isSldFile && IsLt500K;
+            bool res = isSldFile && IsLt500K;
+
+            if (res)
+                Message.Loading("Uploading");
+
+            return res;
         }
 
         async Task OnCompleted(UploadInfo fileinfo)
@@ -52,12 +57,10 @@ namespace SwViewer.Pages
                 var rsObj = JsonSerializer.Deserialize<SldResult<SldFile>>(fileinfo.File.Response)!;
                 if (rsObj.code == 200)
                 {
-                    //Thread.Sleep(4000);
-                    //await UrlChanged.InvokeAsync(rsObj.Data.PreViewUrl);
                     _ = Message.Success("Success");
                     //ÂÖÑ¯
                     var url = APIUrl + rsObj.data.previewUrl;
-                    _= Query(url,rsObj.data.fileId);
+                    await Query(url,rsObj.data.fileId);
                 }
                 else
                 {
