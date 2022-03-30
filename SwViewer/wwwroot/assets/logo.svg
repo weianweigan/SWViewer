@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="50"
+   height="50"
+   viewBox="0 0 13.229166 13.229167"
+   version="1.1"
+   id="svg14650"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="AngleDimension.svg">
+  <defs
+     id="defs14644">
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect15233"
+       is_visible="true"
+       offset_points="0,1.6121238"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect15229"
+       is_visible="true"
+       offset_points="0,0.13229166"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect15217"
+       is_visible="true"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="powerstroke"
+       id="path-effect15233-4"
+       is_visible="true"
+       offset_points="0,1.6121238"
+       sort_points="true"
+       interpolator_type="CubicBezierJohan"
+       interpolator_beta="0.2"
+       start_linecap_type="zerowidth"
+       linejoin_type="extrp_arc"
+       miter_limit="4"
+       end_linecap_type="zerowidth" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568543"
+     inkscape:cx="43.448106"
+     inkscape:cy="15.790934"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1072"
+     inkscape:window-y="826"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata14647">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-283.77082)">
+    <path
+       style="fill:none;stroke:#64a6c4;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 2.1047475,285.82144 v 9.09719 h 8.7230095"
+       id="path14666"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.79374999;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 3.5057292,287.54113 c 1.9074693,0 3.8146743,0 4.7681444,0.99743 0.9534701,0.99743 0.9534701,2.9931 0.9534701,4.98877"
+       id="path15215"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect15217"
+       inkscape:original-d="m 3.5057292,287.54113 c 1.9074693,-2.6e-4 3.8146743,-2.6e-4 5.7216145,0 2.646e-4,1.99486 2.646e-4,3.99053 0,5.9862" />
+    <path
+       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2.37218904px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 4.9774738,287.47498 c 0,0 0,-1.61212 0,-1.61212 -0.4861718,0 -1.9446874,1.61212 -2.4308592,1.61212 0.4861718,0 1.9446874,1.61212 2.4308592,1.61212 0,0 0,-1.61212 0,-1.61212 z"
+       id="path15231"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect15233"
+       inkscape:original-d="m 4.9774738,287.47498 v 0 H 2.5466146" />
+    <path
+       style="fill:#000000;fill-rule:nonzero;stroke:none;stroke-width:2.37218904px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 9.1611979,291.93983 c 0,0 -1.6121238,0 -1.6121238,0 0,0.48617 1.6121238,1.94469 1.6121238,2.43086 0,-0.48617 1.6121241,-1.94469 1.6121241,-2.43086 0,0 -1.6121241,0 -1.6121241,0 z"
+       id="path15231-9"
+       inkscape:connector-curvature="0"
+       inkscape:path-effect="#path-effect15233-4"
+       inkscape:original-d="m 9.1611979,291.93983 v 0 2.43086" />
+    <g
+       aria-label="A"
+       transform="scale(0.94747218,1.05544)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.11484766px;line-height:1.25;font-family:SWMono;-inkscape-font-specification:'SWMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.01928835;stroke-miterlimit:4;stroke-dasharray:none"
+       id="text15255">
+      <path
+         d="m 11.039976,270.91815 1.016762,2.04222 v 1.04283 q -0.01303,0.0695 -0.09125,0.0695 -0.03911,0 -0.06518,-0.0217 -0.02172,-0.0174 -0.02172,-0.0739 v -0.90379 h -1.83365 v 0.92986 q -0.0087,0.0435 -0.047796,0.0608 -0.013035,0.009 -0.043451,0.009 -0.043451,0 -0.065177,-0.0217 -0.026071,-0.0174 -0.026071,-0.0739 v -0.0478 l 0.00435,-0.97765 1.0124173,-2.03787 q 0.01738,-0.0261 0.06952,-0.0435 0.06952,0 0.09125,0.0478 z m -0.938551,1.96835 h 1.716331 l -0.860338,-1.71198 z"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.11484766px;font-family:SWMono;-inkscape-font-specification:'SWMono, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.01928835;stroke-miterlimit:4;stroke-dasharray:none"
+         id="path15257" />
+    </g>
+  </g>
+</svg>

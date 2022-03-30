@@ -1,0 +1,42 @@
+﻿@namespace SwViewer
+@inherits LayoutComponentBase
+
+<AntDesign.ProLayout.BasicLayout 
+    Logo="@("./assets/logo.svg")"
+    MenuData="_menuData">
+    <RightContentRender>
+        <SwViewer.Components.RightContent />
+    </RightContentRender>
+    <ChildContent>
+        @Body
+    </ChildContent>
+    <FooterRender>
+        <FooterView Copyright="2021 Ant Design Blazor" Links="Links"></FooterView>
+    </FooterRender>
+</AntDesign.ProLayout.BasicLayout>
+<SettingDrawer />
+
+@code
+{
+    private readonly MenuDataItem[] _menuData =
+    {
+        new MenuDataItem
+        {
+            Path = "/",
+            Name = "viewer",
+            Key = "viewer",
+            Icon = "smile",
+        }
+    };
+
+    public LinkItem[] Links { get; set; } =
+    {
+        new LinkItem
+        {
+            Key = "github",
+            Title = (RenderFragment)(@<Icon Type="github" />),
+            Href = "git@github.com:weianweigan/SWViewer.git",
+            BlankTarget = true,
+        }        
+    };
+}
