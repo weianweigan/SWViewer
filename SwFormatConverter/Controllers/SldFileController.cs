@@ -40,7 +40,7 @@ namespace SwFormatConverter.Controllers
                 return new SldResult<SldFile>
                 {
                     Code = 202,
-                    Msg = "Upload failed, the image size must be less than 10000KB"
+                    Msg = "Upload failed, the file size must be less than 10MB"
                 };
             }
             
