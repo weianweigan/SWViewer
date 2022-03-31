@@ -4,11 +4,13 @@ Powered by edrawing.
 
 [Online Demo](http://dududu.space:3888/)
 
-![](./resources/page.png)
+<div>
+	<iframe width="90%" height=400 src = "https://raw.githubusercontent.com/weianweigan/SWViewer/master/resources/bolt.html"/>
+</div>
 
 # build
 
 .net 6.0
 
-edrawing insatlled
+edrawing installed
 
