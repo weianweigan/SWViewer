@@ -13,6 +13,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwFormatConverter", "SwForm
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SwViewer", "SwViewer\SwViewer.csproj", "{1E9C2E68-577B-462E-904A-838F88174B1C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwForamt.Entity", "SwForamt.Entity\SwForamt.Entity.csproj", "{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -53,6 +55,14 @@ Global
 		{1E9C2E68-577B-462E-904A-838F88174B1C}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1E9C2E68-577B-462E-904A-838F88174B1C}.Release|x64.ActiveCfg = Release|Any CPU
 		{1E9C2E68-577B-462E-904A-838F88174B1C}.Release|x64.Build.0 = Release|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Debug|x64.Build.0 = Debug|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Release|x64.ActiveCfg = Release|Any CPU
+		{FE3D2FE4-E5D0-4AD3-890B-4940CB9667CC}.Release|x64.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

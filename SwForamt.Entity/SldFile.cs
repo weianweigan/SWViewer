@@ -1,4 +1,4 @@
-﻿namespace SwFormatConverter.Model
+﻿namespace SwFormat.Entity
 {
     public class SldFile
     {

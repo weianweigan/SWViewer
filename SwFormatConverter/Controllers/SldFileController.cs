@@ -2,7 +2,8 @@
 using System.Text.RegularExpressions;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using SwFormatConverter.Model;
+using SwFormat;
+using SwFormat.Entity;
 
 namespace SwFormatConverter.Controllers
 {

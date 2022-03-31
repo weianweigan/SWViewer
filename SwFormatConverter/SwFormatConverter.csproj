@@ -14,4 +14,8 @@
     <Folder Include="wwwroot\Models\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\SwForamt.Entity\SwForamt.Entity.csproj" />
+  </ItemGroup>
+
 </Project>

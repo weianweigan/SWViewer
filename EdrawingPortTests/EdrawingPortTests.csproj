@@ -60,13 +60,21 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
-    <None Include="TestModel\M12×55.SLDPRT" />
-    <None Include="TestModel\M8×35.SLDPRT" />
-    <None Include="TestModel\M8×55.SLDPRT" />
+    <None Include="TestModel\M12×55.SLDPRT">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="TestModel\M8×35.SLDPRT">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="TestModel\M8×55.SLDPRT">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="TestModel\SAE#6.SLDPRT">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
-    <None Include="TestModel\SAE#8.SLDPRT" />
+    <None Include="TestModel\SAE#8.SLDPRT">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
     <None Include="TestModel\新物料模型.SLDPRT">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </None>
